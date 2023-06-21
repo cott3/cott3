@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cott3
 - 👀 I’m interested in web development and python
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html and css python
 - 💞️ I’m looking to collaborate on hack club
 - 📫 How to reach me 
 - slack: https://hackclub.slack.com/team/U053DV31ATD
